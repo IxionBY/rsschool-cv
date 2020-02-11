@@ -1,0 +1,36 @@
+body{
+  width: 1024px;
+  padding: 2% 10% 10% 10%;
+  font-family: "URW Chancery L" , cursive;
+  font-size: 20px;
+}
+
+header,
+h1,
+.img,
+.education,
+.info{
+  text-align: center;
+}
+
+h1{
+  color: black;
+}
+
+.summary,
+.skills,
+.exp{
+  text-align:left;
+}
+
+.education{
+  color: #989b9e;
+}
+
+a{
+  text-decoration:none;
+}
+
+a:hover{
+  cursor: pointer;
+}
