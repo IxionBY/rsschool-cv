@@ -19,4 +19,4 @@ Belarusian State Economic University (Bachelor's degree, Economics and managemen
 Modern Front-End using JavaScript and HTML5 (Belhard Academy)
 Learning Web App Development (Belhard Academy)
 HTML Academy’s courses of JavaScript, HTML5 and CSS3.
-8. **English:** Intermediate 
+8. *English:* Intermediate 
