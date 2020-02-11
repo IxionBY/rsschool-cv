@@ -1,5 +1,5 @@
 1. Gleb Zinoviev
-2. **Contact info:**
+2. *Contact info:*
 +375295659580(MTS)
 @Glbzinoviev(telegram)
 [LinkedIN](https://www.linkedin.com/in/gleb-zinoviev-614a40180/)
